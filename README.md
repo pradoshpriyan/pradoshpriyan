@@ -140,12 +140,11 @@
 ---
 
 ##  Currently Learning  
-- Advanced React patterns and state management
-- Backend integration with Firebase & MongoDB
+- Develop a app with the full stack developement.
+- Backend integration with Sql.
 - Advanced Data Structures & Algorithms
 - Problem Solving techniques and optimization
-- Full-Stack Development best practices
-
+  
 ---
 
 ##  Connect with Me  
