@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=FF0000&text=Pradosh%20Priyan%20A&desc=Full%20Stack%20Developement/Java%20Programmer&descAlign=40&fontAlign=50&fontAlignY=46" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=wave&height=300&color=B3E5FC&text=Pradosh%20Priyan%20A&desc=Full%20Stack%20Developement/Java%20Programmer&descAlign=40&fontAlign=50&fontAlignY=46" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
 
