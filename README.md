@@ -77,6 +77,9 @@
   </tr>
   <tr>
      <td>Coming Soon</td>
+     <td>Coming Soon</td>
+     <td>Coming Soon</td>
+     <td>Coming Soon</td> 
   </tr>
   
     
